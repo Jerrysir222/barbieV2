@@ -2,9 +2,9 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="chinnuty.png" width="170" height="170"/>
+  <img border-radius: 15px src="doll.png" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="chinnuty" src="https://img.shields.io/badge/-chinnuty-pink?&style=for-the-badge"></a>
+<a href="#"><img title="barbie" src="https://img.shields.io/badge/-chinnuty-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
